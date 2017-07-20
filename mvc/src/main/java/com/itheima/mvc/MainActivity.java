@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 检验用户输入——界面相关逻辑处理
+     *just test how to use
      * @param username
      * @param password
      * @return
